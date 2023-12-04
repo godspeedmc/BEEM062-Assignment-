@@ -46,5 +46,3 @@ A Python notebook for time series forecasting of a chosen financial time series.
 
 - **Data Extraction:** Describes the challenges in extracting the relevant time series.
 - **Model Reduction:** Discusses reducing a larger model to a smaller one using machine learning techniques and evaluates the effectiveness of the implementation.
-
-Feel free to explore each directory for detailed code and documentation related to each task.
